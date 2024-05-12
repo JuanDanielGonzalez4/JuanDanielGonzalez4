@@ -2,7 +2,7 @@
 
 **Electronics Engineer, Developer**
 
-I'm Juan Daniel a student of Electronics Engineering 🧑🏽‍💻, with a special interest in web development and data analytics, I'm an enthusiast at resolving real-life problems and creating innovative solutions through the synergy of technology and data-driven approaches.
+I'm Juan Daniel, a student of Electronics Engineering 🧑🏽‍💻, with a special interest in web development and data analytics. I'm an enthusiast at resolving real-life problems and creating innovative solutions through the synergy of technology and data-driven approaches.
 
 [![Gmail Badge](https://img.shields.io/badge/-juandanielgonzalez004@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juandanielgonzalez004@gmail.com)](mailto:juandanielgonzalez004@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-JuanDanielGonzalez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-daniel-gonzalez-gonzalez-05722a279/)](https://www.linkedin.com/in/juan-daniel-gonzalez-gonzalez-05722a279/)
 
